@@ -1,2 +1,2 @@
 # laiza.so
-Repositório para me aprensentar ;)
+Repositório para me aprensentar 
